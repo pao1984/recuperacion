@@ -1,0 +1,16 @@
+.body{
+
+}
+    .de{
+        margin-top: 30px;
+        display: flex;
+        width:1000px;
+        height: 500px;
+        
+    }
+    .er{
+        display: flex;
+        justify-content: center!important;
+        align-items: center !important;  
+        flex-direction:column ;
+    }
